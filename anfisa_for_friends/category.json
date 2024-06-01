@@ -1,0 +1,22 @@
+[
+{
+  "model": "ice_cream.category",
+  "pk": 1,
+  "fields": {
+    "is_published": true,
+    "title": "Экзотическое",
+    "slug": "exotic",
+    "output_order": 100
+  }
+},
+{
+  "model": "ice_cream.category",
+  "pk": 2,
+  "fields": {
+    "is_published": true,
+    "title": "Обычное",
+    "slug": "normal",
+    "output_order": 100
+  }
+}
+]
